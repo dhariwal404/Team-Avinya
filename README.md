@@ -7,14 +7,14 @@
 |[Mitesh Maity](https://github.com/mitesh2806)|
 |[Suraj Kumar Jha](https://github.com/ZXEcoder)|
 
-# [COLLEGE SERVICE PORTAL](https://dhariwal404.github.io/Team-Avinya/) 
+# [COLLEGE SERVICE PORTAL](https://ait-service-portal.web.app/) 
 
 ## :star: [FoodHub](https://dhariwal404.github.io/Team-Avinya/foodhub_index.html)
 - Enjoy food whenever and wherever you want. Just order online are delicious delicacies on food hub webpage. Now you can enjoy food by ordering it at your respective hostel. On this webpage we have integrated all the college shops with their respective QRs and menus(in development). We have also created an order system which will generate the order receipt. Our future plans are to dive into the backend side of this site with the help of razorpay and also improve the UI/UX of this webpage.
 
    ```Feeling Hungry? Visit FoodHub```
 
-## :star: [Laundry Booking System](https://dhariwal404.github.io/Team-Avinya/laundry_index.html)
+## :star: [Laundry Booking System](https://ait-service-portal.web.app/laundry_index.html)
 - The ultimate solution to getting your laundry done. The way laundry is handled in our college is very unorganised the entries are done in a notebook and it takes 3-4 days to get our clothes back. The days of picking up our laundry is also not fixed. An online laundry booking system with proper page comprising of laundry appointments and all the entries can solve many problems.
  
     ```Just schedule your appointment, bag your laundry, and leave the rest to us!```
